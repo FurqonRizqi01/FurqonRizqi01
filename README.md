@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Muhammad Furqon Rizqi 👋</h1>
 
-<!--
-**FurqonRizqi01/FurqonRizqi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer+in+Progress;Learning+Fullstack+Web+Development;Node.js+%2B+PostgreSQL+Explorer&center=true&width=500&height=45">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/FurqonRizqi01"><img src="https://img.shields.io/github/followers/FurqonRizqi01?label=Follow&style=social"></a>
+  <a href="mailto:yuuqonsofast@gmail.com"><img src="https://img.shields.io/badge/Email-DM-blue?logo=gmail"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 About Me
+
+- 🎓 I'm a 7th-semester student at **STT Terpadu Nurul Fikri**, majoring in Informatics Engineering
+- ✅ Completed **MBKM Ruangguru CAMP Batch 7** – Frontend Development Track
+- 💻 Focused on becoming a **Frontend & Fullstack Web Developer**
+- ⚙️ Experienced in **React.js** for frontend and exploring **Node.js + PostgreSQL** on the backend
+- 🌱 Always learning and building real-world web applications
+
+---
+
+### 🛠 Tech Stack I'm Working With
+
+```bash
+💻 Languages:        JavaScript, TypeScript, HTML, CSS
+🌐 Frontend:         React, Tailwind CSS, Chakra UI
+🛠️ Backend:          Node.js, Express.js, PostgreSQL
+🗃️ Database:         PostgreSQL, Firebase (basic), MongoDB (exploring)
+🧰 Tools:            Git, GitHub, Postman, Vite, VS Code
