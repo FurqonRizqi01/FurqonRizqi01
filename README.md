@@ -14,10 +14,9 @@
 ### 🧑‍💻 About Me
 
 - 🎓 I'm a 7th-semester student at **STT Terpadu Nurul Fikri**, majoring in Informatics Engineering
-- ✅ Completed **MBKM Ruangguru CAMP Batch 7** – Frontend Development Track
 - 💻 Focused on becoming a **Frontend & Fullstack Web Developer**
 - ⚙️ Experienced in **React.js** for frontend and exploring **Node.js + PostgreSQL** on the backend
-- 🌱 Always learning and building real-world web applications
+- 🌱 Learning and building real-world web applications
 
 ---
 
