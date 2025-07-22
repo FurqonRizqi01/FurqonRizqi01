@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm a 7th-semester student at **STT Terpadu Nurul Fikri**, majoring in Informatics Engineering
+- 🎓 I'm a student at **STT Terpadu Nurul Fikri**, majoring in Informatics Engineering
 - 💻 Focused on becoming a **Frontend & Fullstack Web Developer**
 - ⚙️ Experienced in **React.js** for frontend and exploring **Node.js + PostgreSQL** on the backend
 - 🌱 Learning and building real-world web applications
@@ -23,8 +23,8 @@
 ### 🛠 Tech Stack I'm Working With
 
 ```bash
-💻 Languages:        JavaScript, TypeScript, HTML, CSS
-🌐 Frontend:         React, Tailwind CSS, Chakra UI
-🛠️ Backend:          Node.js, Express.js, PostgreSQL
-🗃️ Database:         PostgreSQL, Firebase (basic), MongoDB (exploring)
-🧰 Tools:            Git, GitHub, Postman, Vite, VS Code
+💻 Languages: JavaScript, HTML, CSS
+🌐 Frontend:  React, Tailwind CSS, Chakra UI
+🛠️ Backend:   Node.js, Express.js, PostgreSQL
+🗃️ Database:  PostgreSQL, Firebase (basic), MongoDB (exploring)
+🧰 Tools:     Git, GitHub, Postman, Vite, VS Code
